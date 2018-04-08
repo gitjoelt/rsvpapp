@@ -1,5 +1,6 @@
 {
   "name": "rsvp",
+  "homepage": "https://joeltersigni.com/rsvpapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
